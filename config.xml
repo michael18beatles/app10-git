@@ -5,14 +5,14 @@
  id="com.phonegap.app1"
  version="1.0.0">
  
- <name> app6 5 de Mayo </name>
+ <name> app10 Proyecto Final; Bases de Datos Simples/Avanzadas </name>
  
  <description>
- Aplicacion sobre la batalla de Puebla
+ Aplicacion sobre Bases de Datos
  </description>
  
  <author href="https://build.phonegap.com" email="michaelalonsoo18@gmail.com">
-  Datos del autor
+  Alonso Rivera Miguel Angel
  </author>
  
  <!--personaliza la aplicacion y plataforma -->
